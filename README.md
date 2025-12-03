@@ -1,6 +1,6 @@
-#Portfólio de Análise de Dados em R
+## Portfólio de Análise de Dados em R
 
-Repositório com projetos de análise e processamento de dados desenvolvidos em R, demonstrando habilidades em manipulação de dados, análise estatística e visualização.
+Repositório com projetos de análise e processamento de dados desenvolvidos em R, para prática e mostrar habilidades em manipulação de dados, análise estatística e visualização.
 
 ---
 
@@ -116,17 +116,6 @@ Cada projeto gera visualizações profissionais que incluem:
 - Gráficos de dispersão com linha de tendência
 - Gráficos empilhados
 
----
-
-## 💡 Habilidades Demonstradas
-
-✅ Manipulação e limpeza de dados  
-✅ Análise estatística descritiva  
-✅ Criação de visualizações informativas  
-✅ Transformação e agregação de dados  
-✅ Segmentação e classificação  
-✅ Exportação de resultados  
-✅ Código limpo e bem documentado  
 
 ---
 
@@ -136,22 +125,4 @@ Cada projeto gera visualizações profissionais que incluem:
 - Os códigos são autocontidos e podem ser executados independentemente
 - Cada script gera outputs visuais e exporta dados processados em CSV
 
----
 
-## 👤 Autor
-
-**[Seu Nome]**
-
-📧 [seu.email@exemplo.com]  
-💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🐙 [GitHub](https://github.com/seu-usuario)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar conforme necessário.
-
----
-
-⭐ Se este repositório foi útil, considere dar uma estrela!
