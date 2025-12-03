@@ -8,7 +8,7 @@ Repositório com projetos de análise e processamento de dados desenvolvidos em 
 
 Este repositório contém três projetos práticos que demonstram diferentes aspectos da análise de dados:
 
-### 1️⃣ **Análise de Notas de Alunos**
+### **Análise de Notas de Alunos**
 Análise de desempenho escolar com cálculo de médias e classificação de alunos.
 
 **Técnicas utilizadas:**
@@ -24,7 +24,7 @@ Análise de desempenho escolar com cálculo de médias e classificação de alun
 
 ---
 
-### 2️⃣ **Análise de Vendas Mensais**
+### **Análise de Vendas Mensais**
 Análise de desempenho comercial ao longo de 12 meses com múltiplos produtos.
 
 **Técnicas utilizadas:**
@@ -41,7 +41,7 @@ Análise de desempenho comercial ao longo de 12 meses com múltiplos produtos.
 
 ---
 
-### 3️⃣ **Análise de Perfil de Clientes**
+### **Análise de Perfil de Clientes**
 Análise exploratória de base de clientes com segmentação e padrões de consumo.
 
 **Técnicas utilizadas:**
@@ -58,7 +58,7 @@ Análise exploratória de base de clientes com segmentação e padrões de consu
 
 ---
 
-## 🛠️ Tecnologias e Bibliotecas
+## Tecnologias e Bibliotecas
 
 - **R** (versão 4.0+)
 - **ggplot2** - Visualizações
@@ -66,30 +66,7 @@ Análise exploratória de base de clientes com segmentação e padrões de consu
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-├── 01_analise_notas/
-│   ├── analise_notas.R
-│   ├── resultados_alunos.csv
-│   └── README.md
-│
-├── 02_analise_vendas/
-│   ├── analise_vendas.R
-│   ├── vendas_mensais.csv
-│   └── README.md
-│
-├── 03_analise_clientes/
-│   ├── analise_clientes.R
-│   ├── base_clientes.csv
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 ```r
@@ -107,7 +84,7 @@ source("analise_clientes.R")
 
 ---
 
-## 📈 Exemplos de Visualizações
+## Exemplos de Visualizações
 
 Cada projeto gera visualizações profissionais que incluem:
 - Gráficos de barras e colunas
@@ -119,7 +96,7 @@ Cada projeto gera visualizações profissionais que incluem:
 
 ---
 
-## 📝 Observações
+## Observações
 
 - Todos os dados utilizados são simulados para fins didáticos
 - Os códigos são autocontidos e podem ser executados independentemente
