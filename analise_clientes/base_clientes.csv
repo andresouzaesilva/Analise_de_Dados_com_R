@@ -1,0 +1,101 @@
+id,idade,genero,cidade,gasto_mensal,categoria
+1,32,F,São Paulo,520.50,Médio
+2,45,M,Rio de Janeiro,380.20,Médio
+3,28,F,São Paulo,680.90,Alto
+4,51,M,Belo Horizonte,290.40,Baixo
+5,38,F,Curitiba,520.80,Médio
+6,25,M,São Paulo,450.30,Médio
+7,42,F,Rio de Janeiro,720.60,Alto
+8,35,M,Porto Alegre,340.70,Médio
+9,29,F,São Paulo,590.20,Médio
+10,48,M,Belo Horizonte,410.50,Médio
+11,31,F,Rio de Janeiro,650.80,Alto
+12,26,M,São Paulo,280.90,Baixo
+13,44,F,Curitiba,480.40,Médio
+14,37,M,São Paulo,560.70,Médio
+15,52,F,Belo Horizonte,390.30,Médio
+16,23,M,Rio de Janeiro,210.60,Baixo
+17,39,F,São Paulo,670.20,Alto
+18,46,M,Porto Alegre,430.50,Médio
+19,30,F,Curitiba,540.80,Médio
+20,41,M,São Paulo,620.40,Alto
+21,27,F,Rio de Janeiro,320.70,Médio
+22,49,M,Belo Horizonte,450.90,Médio
+23,34,F,São Paulo,580.30,Médio
+24,53,M,Curitiba,370.60,Médio
+25,24,F,Rio de Janeiro,490.20,Médio
+26,43,M,São Paulo,710.50,Alto
+27,36,F,Porto Alegre,350.80,Médio
+28,50,M,Belo Horizonte,420.40,Médio
+29,28,F,São Paulo,640.70,Alto
+30,47,M,Rio de Janeiro,380.90,Médio
+31,33,F,Curitiba,530.30,Médio
+32,40,M,São Paulo,460.60,Médio
+33,26,F,Belo Horizonte,290.20,Baixo
+34,45,M,Rio de Janeiro,690.50,Alto
+35,31,F,São Paulo,550.80,Médio
+36,38,M,Porto Alegre,410.40,Médio
+37,29,F,Curitiba,620.70,Alto
+38,51,M,São Paulo,340.90,Médio
+39,35,F,Belo Horizonte,580.30,Médio
+40,42,M,Rio de Janeiro,470.60,Médio
+41,27,F,São Paulo,510.20,Médio
+42,48,M,Curitiba,390.50,Médio
+43,32,F,Porto Alegre,660.80,Alto
+44,39,M,São Paulo,430.40,Médio
+45,25,F,Belo Horizonte,270.70,Baixo
+46,44,M,Rio de Janeiro,720.90,Alto
+47,36,F,São Paulo,540.30,Médio
+48,52,M,Curitiba,360.60,Médio
+49,30,F,Belo Horizonte,610.20,Alto
+50,41,M,São Paulo,450.50,Médio
+51,28,F,Rio de Janeiro,530.80,Médio
+52,49,M,Porto Alegre,380.40,Médio
+53,34,F,São Paulo,670.70,Alto
+54,46,M,Curitiba,420.90,Médio
+55,23,F,Belo Horizonte,250.30,Baixo
+56,43,M,São Paulo,590.60,Médio
+57,37,F,Rio de Janeiro,480.20,Médio
+58,50,M,Porto Alegre,410.50,Médio
+59,31,F,São Paulo,640.80,Alto
+60,38,M,Curitiba,370.40,Médio
+61,26,F,Belo Horizonte,520.70,Médio
+62,45,M,Rio de Janeiro,690.90,Alto
+63,33,F,São Paulo,460.30,Médio
+64,40,M,Porto Alegre,390.60,Médio
+65,29,F,Curitiba,610.20,Alto
+66,51,M,São Paulo,350.50,Médio
+67,35,F,Belo Horizonte,570.80,Médio
+68,42,M,Rio de Janeiro,440.40,Médio
+69,27,F,São Paulo,680.70,Alto
+70,48,M,Curitiba,410.90,Médio
+71,32,F,Porto Alegre,530.30,Médio
+72,39,M,São Paulo,470.60,Médio
+73,25,F,Belo Horizonte,290.20,Baixo
+74,44,M,Rio de Janeiro,650.50,Alto
+75,36,F,São Paulo,550.80,Médio
+76,52,M,Curitiba,380.40,Médio
+77,30,F,Porto Alegre,620.70,Alto
+78,41,M,São Paulo,430.90,Médio
+79,28,F,Belo Horizonte,560.30,Médio
+80,49,M,Rio de Janeiro,390.60,Médio
+81,34,F,São Paulo,690.20,Alto
+82,46,M,Curitiba,450.50,Médio
+83,23,F,Porto Alegre,270.80,Baixo
+84,43,M,São Paulo,580.40,Médio
+85,37,F,Belo Horizonte,510.70,Médio
+86,50,M,Rio de Janeiro,420.90,Médio
+87,31,F,São Paulo,640.30,Alto
+88,38,M,Curitiba,370.60,Médio
+89,26,F,Porto Alegre,530.20,Médio
+90,45,M,São Paulo,480.50,Médio
+91,33,F,Belo Horizonte,670.80,Alto
+92,40,M,Rio de Janeiro,410.40,Médio
+93,29,F,Curitiba,590.70,Médio
+94,51,M,São Paulo,350.90,Médio
+95,35,F,Porto Alegre,620.30,Alto
+96,42,M,Belo Horizonte,440.60,Médio
+97,27,F,São Paulo,710.20,Alto
+98,48,M,Rio de Janeiro,390.50,Médio
+99,32,F,Curitiba,560.80,Médio
+100,39,M,São Paulo,470.40,Médio
