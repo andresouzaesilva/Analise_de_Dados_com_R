@@ -79,7 +79,7 @@ install.packages("reshape2")
 # Navegue até a pasta do projeto desejado e execute:
 source("analise_notas.R")
 source("analise_vendas.R")
-source("analise_clientes.R")
+source("Analise Dados Clientes.R")
 ```
 
 ---
