@@ -96,10 +96,4 @@ Cada projeto gera visualizações profissionais que incluem:
 
 ---
 
-## Observações
-
-- Todos os dados utilizados são simulados para fins didáticos
-- Os códigos são autocontidos e podem ser executados independentemente
-- Cada script gera outputs visuais e exporta dados processados em CSV
-
 
